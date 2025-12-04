@@ -1,0 +1,6 @@
+| Sección                  | Descripción                                         | Quién puede encargarse                                              |
+| ------------------------ | --------------------------------------------------- | ------------------------------------------------------------------- |
+| **Inicio**               | Logo, imagen principal, slogan, presentación breve  | **Tú** (si te gusta el diseño visual)                               |
+| **Menú / Precios**       | Listado de pollos, combos, acompañamientos, precios | **Tu compañero** (puede manejar tablas o tarjetas de productos)     |
+| **Nosotros / Historia**  | Información de la pollería, misión, visión          | **Tú** (contenido y maquetado sencillo)                             |
+| **Contacto / Ubicación** | Dirección, redes, mapa, formulario                  | **Tu compañero** (puede implementar el mapa y formulario funcional) |
